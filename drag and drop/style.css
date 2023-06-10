@@ -1,0 +1,51 @@
+body{
+    background: white;
+}
+
+.imgBox{
+  
+    position: relative;
+    height: 140px;
+    width: 450px;
+    left: 20px;
+    top: 22px;
+    border-radius: 20px;
+    background-color: white;
+    border: 3px white;
+    cursor: pointer;
+}
+img{
+    position: relative;
+    height: 50px;
+    left: 235px;
+    top: 50px;
+}
+
+.whiteBox{
+    display: inline-block;
+    height: 320px;
+    width: 500px;
+    left: 32px;
+    top: 32px;
+    border-radius: 12px;
+     margin: 10px;
+    background-color: #378FF5;
+    border: 3px black solid;
+}
+.hold{
+    border: solid red 4px;
+}
+
+.dashed{
+    background: rgb(214, 206, 206);
+    border-style: dashed;
+}
+button{
+    position: relative;
+    top: 90px;
+    right: 10px;
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #FD9E46;
+}
